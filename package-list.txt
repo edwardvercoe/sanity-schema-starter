@@ -1,0 +1,1 @@
+npm i sanity-plugin-media sanity-plugin-tags sanity-plugin-note-field sanity-image @sanity/orderable-document-list @sanity/icons @portabletext/react @sanity/image-url
